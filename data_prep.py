@@ -41,3 +41,5 @@ def encode_nans(df):
     df_mas_vnr = encode_mas_vnr(df_fence)
     df_fireplace = encode_fireplace(df_mas_vnr)
     return df_fireplace
+
+
